@@ -1,40 +1,57 @@
-Hi there, I’m Nayomi Furtado! 👋
+# Hi, I’m Nayomi Furtado 👋
 
-- 🚀 I'm a Python Developer with over 6 years of experience, specializing in automating projects and tasks to enhance efficiency and reduce operational costs.
-- 🔭 Currently employed as a Technology Analyst at Infosys Ltd, passionate about leveraging technology to solve real-world challenges.
-- 🌱 I’m currently expanding my expertise into Cybersecurity, actively learning CEH, CHFI, and Cloud Security to broaden my skill set.
-- 💬 Apart from coding, I enjoy Reading, Art, and Exploring new places.
+I’m a **Cybersecurity professional and Python developer** with 6+ years of experience in automating workflows, analysing systems, and improving IT operations. I focus on **SOC operations, threat detection, incident response, and workflow automation**, and enjoy solving practical security challenges.
 
+---
 
-💻 Skills & Technologies
+## 🌐 Cybersecurity & SOC Experience
 
-- Languages: Python(Advance) , Bash/Shell Scripting, PowerShell
-- Operating System: Windows, Kali Linux, Parrot Security OS
-- Frameworks: Robot Framework, Metasploit, Nmap, Wireshark, Nessus
-- Databases: MySQL ,Oracle
-- Tools: Git,PyCharm/VS Code, Selenium
+- **Manage SOC operations:** Perform log analysis, alert triage, incident response, and automation of repetitive tasks.  
+- **Detect threats:** Work with SIEM platforms (Splunk, ELK Stack), IDS/IPS (Suricata), and network monitoring (Wireshark, ).  
+- **Assess vulnerabilities:** Run penetration tests and vulnerability scans using Metasploit, Nmap, and Nessus.  
+- **Automate processes:** Build Python scripts for alert classification, reporting, and incident playbooks.  
+- **Apply practical labs & training:** Complete hands-on exercises and learning paths on TryHackMe to sharpen offensive and defensive skills.  
+- **Follow best practices:** Use CEH/CHFI methodologies and MITRE ATT&CK for threat modelling and response.
 
+---
 
-🌐 Cybersecurity Skills
+## 💻 Technical Skills
 
-- Certified Ethical Hacker (CEH): Certified by EC-Council, demonstrating proficiency in ethical hacking and cybersecurity methodologies.
-- Security Best Practices: Implementing secure coding practices and protocols to ensure robust application security.
-- Network Security: Understanding network vulnerabilities and implementing measures to mitigate risks.
+| Category | Skills |
+|----------|-------|
+| **Programming & Scripting** | Python (Advanced), PowerShell, Bash/Shell |
+| **Operating Systems** | Windows, Kali Linux, Parrot Security OS |
+| **Security & SOC Tools** | Splunk, ELK Stack, Security Onion, Suricata, Wireshark, pfSense, Nessus, MISP, FTK |
+| **Automation & Testing** | Robot Framework, Selenium |
+| **Databases** | MySQL, Oracle |
 
+---
 
-🌐 Python Skills
+## ⚡ Projects & Achievements
 
-- Advanced Python Programming: Expert in writing efficient and scalable Python code for various applications.
-- Automation: Skilled in automating tasks and processes to enhance productivity and reduce manual effort.
-- Data Handling: Experienced in working with databases like MySQL and Oracle for data storage and management.
-- Tooling and Environment: Familiar with development tools such as Git and VS Code for version control, containerization, and coding.
+- **SOC Event Detection Automation**  
+  Developed an automated SOC event detection system using Python, Suricata, ELK Stack, and MISP to streamline alert triage and reduce false positives.
 
+- **Network & Data Security Analysis**  
+  Conducted practical assessments of encryption, hashing, and steganography to ensure secure communications.
+  
+- **Security Audit Report – Academic Building**
+  Conducted a full physical and equipment security audit for a university building following ISO/IEC 27002:2022 Section 7
 
-📫 Connect with Me
+- **SAS-Linux Server Hardening & Security Implementation**
+  Hardened a CentOS 7 server and configured services to improve security, compliance, and operational resilience.
+---
 
-- LinkedIn: https://www.linkedin.com/in/nayomi-furtado-734174137/
-- Email: nayomifurtado11@gmail.com
-<!---
-nayomif96/nayomif96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🎓 Training & Certifications
+
+- **Certifications:** CEH, CHFI  
+- **Hands-on platforms:** TryHackMe — practical labs and learning paths for both offensive and defensive skills.
+
+---
+
+## 📫 Connect with Me
+
+- **LinkedIn:** [Nayomi Furtado](https://www.linkedin.com/in/nayomi-furtado-734174137/)  
+- **Email:** nayomifurtado11@gmail.com  
+
+---
