@@ -1,6 +1,6 @@
 # Hi, I’m Nayomi Furtado 👋
 
-I’m a **Cybersecurity professional and Python developer** with 6+ years of experience in automating workflows, analysing systems, and improving IT operations. I focus on **SOC operations, threat detection, incident response, and workflow automation**, and enjoy solving practical security challenges.
+I’m a **Cybersecurity graduate and Python developer** with 6+ years of experience in automating workflows, analysing systems, and improving IT operations. I focus on **SOC operations, threat detection, incident response, and workflow automation**, and enjoy solving practical security challenges.
 
 ---
 
