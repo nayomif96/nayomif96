@@ -51,7 +51,7 @@ I’m a **Cybersecurity professional and Python developer** with 6+ years of exp
 
 ## 📫 Connect with Me
 
-- **LinkedIn:** [Nayomi Furtado](https://www.linkedin.com/in/nayomi-furtado-734174137/)  
+- **LinkedIn:** [Nayomi Furtado](https://www.linkedin.com/in/nayomi-furtado-734174137/](https://www.linkedin.com/in/nayomi-furtado/)  
 - **Email:** nayomifurtado11@gmail.com  
 
 ---
