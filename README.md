@@ -45,7 +45,7 @@ I’m a **Cybersecurity graduate and Python developer** with 6+ years of experie
 ## 🎓 Training & Certifications
 
 - **Certifications:** CEH, CHFI  
-- **Hands-on platforms:** TryHackMe — practical labs and learning paths for both offensive and defensive skills.
+- **Hands-on platforms:** TryHackMe
 
 ---
 
