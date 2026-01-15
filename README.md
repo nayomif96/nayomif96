@@ -6,11 +6,11 @@ I’m a **Cybersecurity graduate and Python developer** with 6+ years of experie
 
 ## 🌐 Cybersecurity & SOC Experience
 
-- **Manage SOC operations:** Perform log analysis, alert triage, incident response, and automation of repetitive tasks.  
+- **SOC operations:** Perform log analysis, alert triage, incident response, and automation of repetitive tasks.  
 - **Detect threats:** Work with SIEM platforms (Splunk, ELK Stack), IDS/IPS (Suricata), and network monitoring (Wireshark, ).  
 - **Assess vulnerabilities:** Run penetration tests and vulnerability scans using Metasploit, Nmap, and Nessus.  
 - **Automate processes:** Build Python scripts for alert classification, reporting, and incident playbooks.  
-- **Apply practical labs & training:** Complete hands-on exercises and learning paths on TryHackMe to sharpen offensive and defensive skills.  
+- **Practical labs & training:** Complete hands-on exercises and learning paths on TryHackMe to sharpen offensive and defensive skills.  
 - **Follow best practices:** Use CEH/CHFI methodologies and MITRE ATT&CK for threat modelling and response.
 
 ---
@@ -19,10 +19,10 @@ I’m a **Cybersecurity graduate and Python developer** with 6+ years of experie
 
 | Category | Skills |
 |----------|-------|
-| **Programming & Scripting** | Python (Advanced), PowerShell, Bash/Shell |
+| **Programming & Scripting** | Python (Advanced), PowerShell, Bash. |
 | **Operating Systems** | Windows, Kali Linux, Parrot Security OS |
-| **Security & SOC Tools** | Splunk, ELK Stack, Security Onion, Suricata, Wireshark, pfSense, Nessus, MISP, FTK |
-| **Automation & Testing** | Robot Framework, Selenium |
+| **Security & SOC Tools** | Splunk, ELK Stack, Suricata, Wireshark, pfSense, Nessus, MISP, FTK |
+| **Automation & Testing** | Robotic Process Framework, Selenium |
 | **Databases** | MySQL, Oracle |
 
 ---
